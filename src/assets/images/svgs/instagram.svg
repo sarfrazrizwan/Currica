@@ -1,0 +1,17 @@
+<svg id="instagram" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_2" data-name="Group 2">
+    <g id="Group_1" data-name="Group 1">
+      <path id="Path_1" data-name="Path 1" d="M17.028,0H6.972A6.98,6.98,0,0,0,0,6.972V17.028A6.98,6.98,0,0,0,6.972,24H17.028A6.98,6.98,0,0,0,24,17.028V6.972A6.98,6.98,0,0,0,17.028,0Zm5.1,17.028a5.1,5.1,0,0,1-5.1,5.1H6.972a5.1,5.1,0,0,1-5.1-5.1V6.972a5.1,5.1,0,0,1,5.1-5.1H17.028a5.1,5.1,0,0,1,5.1,5.1Z" fill="#57beb5"/>
+    </g>
+  </g>
+  <g id="Group_4" data-name="Group 4" transform="translate(5.606 5.606)">
+    <g id="Group_3" data-name="Group 3">
+      <path id="Path_2" data-name="Path 2" d="M124.394,118a6.394,6.394,0,1,0,6.394,6.394A6.4,6.4,0,0,0,124.394,118Zm0,10.934a4.54,4.54,0,1,1,4.54-4.54A4.546,4.546,0,0,1,124.394,128.934Z" transform="translate(-118 -118)" fill="#57beb5"/>
+    </g>
+  </g>
+  <g id="Group_6" data-name="Group 6" transform="translate(17.952 3.769)">
+    <g id="Group_5" data-name="Group 5" transform="translate(0 0)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="1" cy="1" r="1" fill="#57beb5"/>
+    </g>
+  </g>
+</svg>

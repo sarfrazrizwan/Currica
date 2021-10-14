@@ -1,0 +1,341 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.mx-width {
+  width: 95%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.header {
+  -webkit-box-shadow: 0px 2px 4px #0000000d;
+          box-shadow: 0px 2px 4px #0000000d;
+  opacity: 1;
+}
+
+.btn-prime {
+  background-color: #57beb5;
+  -webkit-box-shadow: 0px 10px 20px #00000033;
+          box-shadow: 0px 10px 20px #00000033;
+  font-weight: 500;
+  font-family: "Heebo", sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+  text-transform: uppercase;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 2px;
+}
+
+.btn-prime:hover {
+  color: #fff;
+}
+
+.user-profile-image {
+  width: 55px;
+  height: 55px;
+  line-height: 57px;
+  text-align: center;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 10px 20px #0000001a;
+          box-shadow: 0px 10px 20px #0000001a;
+  border-radius: 40px;
+  opacity: 1;
+}
+
+.user-profile-image i {
+  color: #fdba16;
+}
+
+.top_navbar li a {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Heebo", sans-serif;
+  color: #0f1417;
+  text-transform: uppercase;
+  margin: 0 10px;
+}
+
+.top_navbar li a.active {
+  color: #57beb5;
+}
+
+.top_navbar li a:hover {
+  color: #57beb5;
+}
+
+.search-form input {
+  width: 480px;
+  border: 1px solid #8c8c8c;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.search-form input:focus {
+  outline: none;
+}
+
+.search-form input::-webkit-input-placeholder {
+  font-size: 16px;
+  color: #8c8c8c;
+  font-family: "Open Sans", sans-serif;
+  text-transform: capitalize;
+}
+
+.search-form input:-ms-input-placeholder {
+  font-size: 16px;
+  color: #8c8c8c;
+  font-family: "Open Sans", sans-serif;
+  text-transform: capitalize;
+}
+
+.search-form input::-ms-input-placeholder {
+  font-size: 16px;
+  color: #8c8c8c;
+  font-family: "Open Sans", sans-serif;
+  text-transform: capitalize;
+}
+
+.search-form input::placeholder {
+  font-size: 16px;
+  color: #8c8c8c;
+  font-family: "Open Sans", sans-serif;
+  text-transform: capitalize;
+}
+
+.search-form input:focus {
+  outline: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.search-label {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+}
+
+.main-heading h1 {
+  color: #0f1417;
+  font-size: 54px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.main-heading span {
+  color: #0f1417;
+  font-size: 16px;
+  font-family: "Heebo", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fdba16;
+}
+
+.heading-bg {
+  font-size: 44px;
+  font-family: "Montserrat", sans-serif;
+  color: #f02953;
+  font-weight: 300;
+}
+
+.heading2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: #0f1417;
+}
+
+.text-md1 {
+  font-size: 18px;
+  color: #8c8c8c;
+  font-weight: 400;
+  font-family: "Montserrat", sans-serif;
+}
+
+.text-sm-bold {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 18px;
+  color: #0f1417;
+}
+
+.text-sm-medium {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #8c8c8c;
+}
+
+.btn-download {
+  width: 100%;
+  background-color: #57beb5;
+  border-radius: 3px;
+  opacity: 1;
+  font-family: "Heebo", sans-serif;
+  color: white;
+  padding: 10px 0px;
+}
+
+.btn-download:hover {
+  color: #fff;
+}
+
+.main-image img {
+  width: 100%;
+  height: 550px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.thumbnail-images {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.thumbnail-images img {
+  width: 150px;
+  height: 100px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.col-left .p_name {
+  font-size: 18px;
+  color: #0f1417;
+  font-family: "Heebo", sans-serif;
+  font-weight: 500;
+}
+
+.col-left .p_text {
+  font-size: 16px;
+  color: #8c8c8c;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+.f-list ul {
+  margin-bottom: 0px;
+  list-style: none;
+}
+
+.f-list ul li {
+  margin-top: 25px;
+}
+
+.f-list ul li a {
+  font-size: 14px;
+  font-weight: 300;
+  color: #8c8c8c;
+  font-family: "Montserrat", sans-serif;
+}
+
+.company_name {
+  font-size: 32px;
+  font-family: "Montserrat", sans-serif;
+  color: #8c8c8c;
+  font-weight: bold;
+}
+
+.company_mp {
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  color: #8c8c8c;
+  font-weight: 400;
+}
+
+.company_mp1 {
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+  color: #8c8c8c;
+  font-weight: 400;
+}
+
+.f-list .text-sm {
+  font-size: 14px;
+  color: #8c8c8c;
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbarToggler:focus {
+  outline: none;
+}
+
+.toggle-icon {
+  width: 30px;
+  height: 4px;
+  background-color: #f02953;
+  margin-bottom: 4px;
+  border-radius: 8px;
+}
+
+.toggle-icon:focus {
+  outline: none;
+}
+
+@media (max-width: 1250px) {
+  .search-form {
+    width: 100%;
+    max-width: 480px;
+  }
+  .search-form input {
+    width: 1005;
+  }
+  .top_navbar li a {
+    margin: 0;
+  }
+}
+
+@media (max-width: 572px) {
+  .thumbnail-images img {
+    width: 50%;
+    padding: 5px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+  .main-image img {
+    height: auto;
+  }
+  .social-media-icons ul {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  .social-media-icons ul li {
+    margin: 3px;
+  }
+}
+
+.btn-viewmore {
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 10px 20px #00000033;
+          box-shadow: 0px 10px 20px #00000033;
+  border: 1px solid #f02953;
+  font-family: "Heebo", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  color: #f02953;
+  width: 100%;
+  max-width: 250px;
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+
+.btn-viewmore:hover {
+  color: #f02953;
+}
+
+.social-media-icons ul li {
+  margin-right: 25px;
+}
+/*# sourceMappingURL=main.css.map */
